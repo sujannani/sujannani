@@ -60,5 +60,5 @@ I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong b
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_sujan12_)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujannani&layout=compact&theme=radical&style=for-the-badge)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujannani&show_icons=true&theme=radical&style=for-the-badge)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujannani&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujannani&show_icons=true&theme=radical)
