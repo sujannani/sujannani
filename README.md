@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Gnana Tirumala Sujan
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=sujannani&style=flat-square) -->
+![Profile Views](https://komarev.com/ghpvc/?username=sujannani&style=flat-square)
+
 
 I'm a passionate **Full Stack Developer** and **UI/UX Designer** with a strong background in computer science. I'm currently in my final year of B.Tech at **VIT AP University**.
 
